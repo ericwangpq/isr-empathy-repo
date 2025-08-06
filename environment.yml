@@ -1,0 +1,54 @@
+name: data-analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Python version
+  - python=3.9
+  
+  # Core data analysis packages
+  - pandas>=1.5.0
+  - numpy>=1.21.0
+  - scipy>=1.9.0
+  
+  # Machine learning packages
+  - scikit-learn>=1.1.0
+  
+  # Visualization packages
+  - matplotlib>=3.5.0
+  - seaborn>=0.11.0
+  
+  # Jupyter notebook packages
+  - jupyter>=1.0.0
+  - jupyterlab>=3.4.0
+  - notebook>=6.4.0
+  - ipywidgets>=7.7.0
+  
+  # Excel file handling
+  - openpyxl>=3.0.0
+  - xlrd>=2.0.0
+  
+  # Statistical analysis
+  - statsmodels>=0.13.0
+  
+  # Progress bars and utilities
+  - tqdm>=4.64.0
+  
+  # Chinese font support (optional, platform dependent)
+  - fonttools>=4.33.0
+  
+  # Development and code quality
+  - black>=22.0.0
+  - flake8>=4.0.0
+  
+  # Additional utilities
+  - requests>=2.28.0
+  - urllib3>=1.26.0
+  
+  # For potential future enhancements
+  - pip>=22.0.0
+  
+  # Install additional packages via pip that may not be available in conda
+  - pip:
+    - jieba>=0.42.1  # Chinese text processing (if needed for advanced NLP)
+    # Add any other pip-only packages here
