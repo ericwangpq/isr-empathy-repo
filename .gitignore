@@ -10,3 +10,9 @@ test_environment.py
 北海智伴对话_250611-0620.xlsx
 北海智伴对话_250621-0701.xlsx
 回答反馈.csv
+字段注释.xlsx
+.gitignore
+datafield_annotation.xlsx
+output_chunks/
+datafield_annotation.xlsx
+.gitignore
