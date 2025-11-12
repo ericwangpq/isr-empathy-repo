@@ -16,3 +16,21 @@ datafield_annotation.xlsx
 output_chunks/
 datafield_annotation.xlsx
 .gitignore
+.DS_Store
+ANALYSIS_FRAMEWORK_v2.md
+ANALYSIS_PIPELINE_VISUAL.md
+Couns and Psychother Res - 2024 - Yonatan‐Leus - Comparing perceived empathy and intervention strategies of an AI chatbot.pdf
+empathy_analysis_enhanced.py
+empathy_analysis.ipynb
+empathy_v2_functions.py
+sentiment_regression_analysis_backup.ipynb
+THURSDAY_DISCUSSION_PREP.md
+北海智伴对话250701-0711.xlsx
+北海智伴对话250712-0719.xlsx
+北海智伴对话250720-0725.xlsx
+北海智伴对话250726-0731.xlsx
+analysis_outputs_v2/analysis_summary_v2.csv
+analysis_outputs_v2/empathy_comparison_stats_v2.csv
+analysis_outputs_v2/regression_dataset_v2.csv
+analysis_outputs_v2/session_features_cache.csv
+analysis_outputs_v2/session_features_v2.csv
