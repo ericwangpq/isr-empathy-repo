@@ -34,3 +34,4 @@ analysis_outputs_v2/empathy_comparison_stats_v2.csv
 analysis_outputs_v2/regression_dataset_v2.csv
 analysis_outputs_v2/session_features_cache.csv
 analysis_outputs_v2/session_features_v2.csv
+event_bh.csv
